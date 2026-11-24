@@ -1,8 +1,8 @@
 # 📚 Shirley
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8-%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%8A%A9%E6%89%8B-blue?style=flat-square&v=2" />
-  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%AE%8C%E7%BB%93-success?style=flat-square&v=2" />
+  <img src="https://img.shields.io/badge/应用-论文阅读助手-blue.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/状态-已完结-success.svg?style=flat-square" />
 </p>
 
 ---
