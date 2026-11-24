@@ -1,5 +1,11 @@
 # 📚 Shirley
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8-%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%8A%A9%E6%89%8B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%AE%8C%E7%BB%93-success?style=flat-square" />
+</p>
+
+---
 ## ✨ 功能：
 1. 通过巧妙的提示词工程，给 AI 立好“规矩”，让它老老实实地按照你的要求精读论文。
 
